@@ -69,9 +69,9 @@ nav a.button {
 }
 
 .row p {
-    font-size: 18px;
-    line-height: 1.5;
-    margin-bottom: 20px;
+     font-size: 18px; 
+     line-height: 1.5; 
+     margin-bottom: 20px; 
 }
 .button1 {
     text-decoration: none;
@@ -121,7 +121,7 @@ h3 {
 }
 
 .section p {
-    font-size: 16px;
+     font-size: 16px; 
 }
 
 /* Footer Styles */
